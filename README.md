@@ -1,8 +1,8 @@
 ## Aoooba... Sou Caio, professor de tecnologia, games, web, marcenaria, mecânica e X1 no Mk, bora?
 <div align="center">
   <a href="https://github.com/caiohalbert">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioHalbert)](https://github.com/CaioHalbert/github-readme-stats&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioHalbert&langs_count=8)](https://github.com/CaioHalbert/github-readme-stats&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiohalbert&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiohalbert&layout=compact&langs_count=7&theme=dracula"/>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Caio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
